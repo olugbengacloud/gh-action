@@ -1,4 +1,4 @@
-name: Workflow
+name: Workflows-skip
 on: workflow_dispatch
 
 jobs:
